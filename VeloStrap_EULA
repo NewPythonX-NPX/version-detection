@@ -1,5 +1,7 @@
 {
   "Managed by": "NewPythonX Studio",
-  "GLOBAL_LATEST": "1.0.2",
-  "EULA_main": "USE_GLOBAL"
+  "GLOBAL_LATEST_EULA": "1.1.0",
+  "GLOBAL_LATEST_DEV_LICENSE": "1.1.0",
+  "EULA_main": "USE_GLOBAL_EULA",
+  "DEV_LICENSE_main": "USE_GLOBAL_DEV"
 }
