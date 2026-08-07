@@ -1,9 +1,9 @@
 {
   "Managed by": "NewPythonX Studio",
-  "GLOBAL_LATEST_EULA": "0.0.8",
+  "GLOBAL_LATEST_EULA": "0.1.0",
   "GLOBAL_LATEST_PRIVACY_POLICY": "0.0.6",
   "GLOBAL_LATEST_DEV_LICENSE": "0.0.10",
-  "GLOBAL_LATEST_USE_LICENSE": "0.0.51",
+  "GLOBAL_LATEST_USE_LICENSE": "0.0.52",
   
   "EULA_main": "USE_GLOBAL_EULA",
   "wow_ilovemyeula": "USE_GLOBAL_EULA",
